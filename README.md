@@ -16,6 +16,8 @@ Obviously replace "secrets" with your API key :)
 
 Quite rudimentary at the moment. You have to edit the `createResponse(config, "")`, just add the `{feature}` you wish to describe in the text field. (I might add a GUI later and possibly integrations for DALL-E)
 
+You might want to consider running the script in a python venv.
+
 ## Contributing
 
 Nothing at the moment :(
