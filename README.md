@@ -14,8 +14,11 @@ Quite rudimentary at the moment. You have to edit the `createResponse(config, ""
 
 ## Contributing
 
-Nothing at the moments :(
+Nothing at the moment :(
 
 ## License
 
-Check out the LICENSE.md file.
+                     GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Get the rest in the [License](LICENSE.md) file.
