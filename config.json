@@ -1,0 +1,6 @@
+{
+    "prompt": "Describe the {feature} of a magical kingdom with tall walls of stone and great lakes of pure water. Ivy covered buildings and a magnificent castle with a crooked mage tower in it's shadow. There are powerful runes inscribed on the enormous iron framed wooden gates that provide protection to the city within. Large fields of wheat and beautiful flowing rivers surround the walls.",
+    "model": "text-davinci-003",
+    "max_tokens": 128,
+    "temperature": 0.9
+}
