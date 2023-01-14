@@ -7,6 +7,10 @@ A `python` program that uses OpenAI's GPT-3 in order to complete the prompt.
 ## Installation
 
 Download the files and make sure to obtain an API key from OpenAI's beta.
+Add a `.env` file to your directory with the contents:
+> OPENAI_API_KEY=secrets
+
+Obviously replace "secrets" with your API key :)
 
 ## Usage
 
