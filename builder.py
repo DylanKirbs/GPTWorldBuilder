@@ -1,5 +1,6 @@
 import json
 import API
+from tqdm import tqdm
 
 # Set the API key
 API.connectOpenAI()
@@ -13,7 +14,7 @@ features = builder["features"]
 responses = builder["responses"]
 
 # Create the text response
-for feature in features:
+for feature in tqdm(features):
     responses[feature] = API.createTextResponse(
         prompt=config["prompt"].replace("{feature}", feature),
         engine=config["engine"],
