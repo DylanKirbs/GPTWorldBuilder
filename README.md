@@ -2,7 +2,7 @@
 
 ## Description
 
-A `python` program that uses OpenAI's GPT-3 in order to complete the prompt.
+A `python` library that uses OpenAI's API's to generate **worlds**.
 
 ## Installation
 
@@ -14,13 +14,21 @@ Obviously replace "secrets" with your API key :)
 
 ## Usage
 
-Quite rudimentary at the moment. You have to edit the `createResponse(config, "")`, just add the `{feature}` you wish to describe in the text field. (I might add a GUI later and possibly integrations for DALL-E)
+There are two scripts to mess around with, the `builder.py` and the `main.py`. <br>
+In the `main.py` you will be able to mess around with the API methods from OpenAI's text and image generators.
+> API.createTextResponse("A poem about the sky")
 
-You might want to consider running the script in a python venv.
+Will generate a poem about the sky... hopefully, and return the string.
+
+> API.createImageResponse("A drawing of a cat")
+
+Will return a URL to the generated Image of a cat.
+
+*Consider running the programs in a python venv...*
 
 ## Contributing
 
-Nothing at the moment :(
+If you want to contribute please feel free to reach out to me or create an issue and we can chat about contributions. :)
 
 ## License
 

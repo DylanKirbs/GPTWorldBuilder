@@ -1,0 +1,26 @@
+{
+    "config": {
+        "prompt": "Describe the {feature} of a magical kingdom with tall walls of stone and great lakes of pure water. Ivy covered buildings and a magnificent castle with a crooked mage tower in it's shadow. There are powerful runes inscribed on the enormous iron framed wooden gates that provide protection to the city within. Large fields of wheat and beautiful flowing rivers surround the walls.",
+        "engine": "text-davinci-003",
+        "max_tokens": 128,
+        "temperature": 0.9
+    },
+    "features": [
+        "castle",
+        "city",
+        "fields",
+        "gates",
+        "landscape",
+        "mage tower",
+        "rivers"
+    ],
+    "responses": {
+        "castle": " Guards in shining armor patrol the grounds and keep the peace. Inside the walls lies a bustling city full of grandiose architecture. The castle stands tall, surrounded by a courtyard with gardens and a moat of clear, shimmering water. The towers reach up to the heavens and shine in the sunlight, while a flag flutters in the wind. The castle is home to a royal family and countless courtiers, courtesans and wizards. Inside the castle is an array of majestic rooms and hallways with thick carpets and treasures of all shapes and sizes. An impressive throne room is in the center, and an array of tapest",
+        "city": " Graceful swans glide across the clear lakes and bright dragons soar through the sky. The streets are immaculately paved with cobblestone and lined with candle-lit stores and cafes. At night, the air is filled with the sound of music and laughter as the citizens of this magical kingdom enjoy the beauty of their city.",
+        "fields": " The townspeople can be found in the city markets as well as the many workshops and taverns. The castle sits atop a hill where one can look out and see the shimmering lakes, the ripe wheat fields, and the far off horizon of the mighty mountain range.",
+        "gates": " Scattered throughout the kingdom are majestic gardens, open plazas, and larger-than-life statues of former rulers. The air is filled with the song of birds and the laughter of children. A grand procession of guards passes through the gates each morning to signify the start of a new day in the kingdom. A bridge leads across the lake of pure water, making the gates the only entrance to and exit from the kingdom.",
+        "landscape": " Wildflowers in shades of pink and white as far as the eye can see. Stone bridges arch over deep insets of clear, reflective water. Far off in the horizon, the distant snowcapped peaks of the great mountains can be seen in the setting sunlight. The air is fresh and filled with the sound of birdsong.",
+        "mage tower": " The great lakes within provide a source of refreshment to the many magical creatures that inhabit the area. The tower itself is a mammoth structure at the center of the town with its gleaming spires reaching up towards the heavens. It is filled with ancient artifacts and powerful spellbooks, and it's protected by powerful wardings and enchantments. The top of the tower is accessible only by teleportation within a certain range of the tower. Those brave enough to enter the tower must face powerful magical challenges and puzzles to gain entry to the higher levels of the tower and uncover its many secrets.",
+        "rivers": " \n\nThe rivers of this magical kingdom are majestic, with striking greens and blues. They wind through the countryside and spill into the great lakes of pure, crystal-clear water. These rivers are a source of life and provide sustenance to the people and creatures of the kingdom. The river banks are lined with tall trees and foliage, creating a calming atmosphere that can be enjoyed while taking a leisurely boat ride. On some of the rivers, there are magical creatures seen swimming and playing among the reeds. These creatures often appear when the sun hits the water in just the right way, making the rivers sparkle and shimmer in the"
+    }
+}
